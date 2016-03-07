@@ -1,0 +1,2 @@
+# CloudLoadTest
+rabbitMQ loadTest
